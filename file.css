@@ -1,0 +1,52 @@
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            
+        }
+
+        .judul {
+            text-align: center;
+            font-size: 300%;
+            color: #fdfdfd;
+            padding: 30px 0;
+            background-color: #3d362e;
+        }
+        h1 {
+            text-align: center;
+            font-size: 300%;
+            color: #2c3e508f;
+        }
+        .navbar {
+            background-color: #f4b300;
+            overflow: hidden;
+            text-align: center;
+            justify-content: center;
+            display: flex;
+            font-size: 120%;
+        }
+
+       .navbar a {
+            float: left;
+            display: block;
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+            font-weight: bold;
+            justify-content: center;
+        }
+        
+        .navbar a:hover {
+            background-color: #e59500;
+
+        }
+        
+        .content {
+            text-align: center;
+            
+        }
+
+        iframe {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
